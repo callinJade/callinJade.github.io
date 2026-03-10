@@ -106,16 +106,16 @@ headerTemplate.innerHTML = `
 
 		<nav class="navbar">
 			<ul>
-				<li><a href="/index.html">Home</a></li>
+				<li><a href="/Personal_Website/index.html">Home</a></li>
 				<li class="dropdown">
 					<a href="#">Projects</a> 
 					<ul class="dropdown-content">
-						<li><a href="/projects/cs_projects.html">CS Projects</a></li>
-						<li><a href="/projects/bio_projects.html">Bio Projects</a></li>
+						<li><a href="/Personal_Website/projects/cs_projects.html">CS Projects</a></li>
+						<li><a href="/Personal_Website/projects/bio_projects.html">Bio Projects</a></li>
 					</ul>
 				</li>
-				<li><a href="/hobbies/hobby.html">Hobbies</a></li>
-				<li><a href="/contact.html">Contact</a></li>
+				<li><a href="/Personal_Website/hobbies/hobby.html">Hobbies</a></li>
+				<li><a href="/Personal_Website/contact.html">Contact</a></li>
 			</ul>
 	
 		</nav>
