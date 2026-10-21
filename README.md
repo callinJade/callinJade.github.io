@@ -37,7 +37,7 @@ bun install
 bun run dev
 ```
 
-Then open `http://localhost:8080`.
+Then open `http://localhost:5173`.
 
 ## Build for production
 
