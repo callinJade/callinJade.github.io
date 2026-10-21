@@ -9,6 +9,6 @@ export const site = {
   linkedin: "https://linkedin.com/in/jade-collins-98c",
   orcid: "",
   scholar: "",
-  resumePdf: "/resume.pdf",
-  cvPdf: "/CV.pdf",
+  resumePdf: "/jade-collins-resume.pdf",
+  cvPdf: "/jade-collins-cv.pdf",
 };
