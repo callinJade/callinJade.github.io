@@ -65,7 +65,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href={site.resumePdf}
+                  href="/resume"
                   className="inline-flex items-center gap-2 transition-opacity hover:opacity-70"
                 >
                   <FileText className="h-4 w-4 shrink-0" />
