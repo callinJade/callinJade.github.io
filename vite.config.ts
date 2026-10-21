@@ -10,9 +10,17 @@ export default defineConfig({
     tsconfigPaths(),
     tailwindcss(),
     tanstackStart({
+      pages: [
+        { path: "/" },
+        { path: "/about" },
+        { path: "/research" },
+        { path: "/projects" },
+        { path: "/design" },
+        { path: "/resume" },
+      ],
       prerender: {
         enabled: true,
-        crawlLinks: true,
+        crawlLinks: false,
       },
     }),
     react(),
