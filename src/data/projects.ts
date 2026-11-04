@@ -57,7 +57,7 @@ export const projects = {
       year: 2024,
       description: "Program using k-means clustering to recommend a song to a user based on their past ratings of other and ratings of similar users.",
       tags: ["Java", "VSCode", "GitHub"],
-      github: "https://github.com/ISE-GenAI-TechX25-Section-A/CatLovers_A5",
+      github: "",
       live: "",
     },
   ],
