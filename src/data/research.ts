@@ -5,22 +5,29 @@ export const research = {
   },
   projects: [
     {
-      title: "Single-cell atlas of stress response",
-      year: "2025",
+      title: "Evolutionary history of mimosine production in agriculturally significant legumes",
+      year: "2024 - present",
       description:
         "Built an RNA-seq pipeline to cluster and visualize 40,000+ cells across multiple timepoints, identifying candidate regulatory modules involved in stress response.",
       tags: ["Python", "Scanpy", "Single-cell RNA-seq"],
     },
     {
-      title: "Variant calling workflow for non-model organisms",
+      title: "The function of shark skin denticles studied using biomimetic models",
       year: "2024",
       description:
-        "Developed a reproducible Snakemake workflow for alignment, variant calling, and quality control tailored to a newly sequenced plant genome.",
+        "Built an RNA-seq pipeline to cluster and visualize 40,000+ cells across multiple timepoints, identifying candidate regulatory modules involved in stress response.",
+      tags: ["Python", "Scanpy", "Single-cell RNA-seq"],
+    },
+    {
+      title: "Is that Blood in the water? The damaging effects of red tides",
+      year: "2023, 2024",
+      description:
+        "Literature review Developed a reproducible Snakemake workflow for alignment, variant calling, and quality control tailored to a newly sequenced plant genome.",
       tags: ["Snakemake", "BWA", "GATK", "Bioinformatics"],
     },
     {
-      title: "Phylogenetic network inference",
-      year: "2024",
+      title: "Water Bottle Bacteria",
+      year: "2023",
       description:
         "Explored graph-based methods for inferring reticulate evolutionary history using simulated and empirical datasets.",
       tags: ["R", "Network analysis", "Evolution"],

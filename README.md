@@ -2,6 +2,10 @@
 
 Student portfolio site
 
+## Live Website
+
+Visit the live website at: [https://callinjade.github.io/](https://callinjade.github.io/)
+
 ## Tech stack
 
 - **TanStack Start** — full-stack React framework configured for static prerendering

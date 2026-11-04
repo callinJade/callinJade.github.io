@@ -30,6 +30,7 @@ function ProjectsPage() {
             <ProjectCard
               key={project.title}
               title={project.title}
+              year={project.year}
               description={project.description}
               tags={project.tags}
               github={project.github}
