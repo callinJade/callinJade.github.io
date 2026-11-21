@@ -5,6 +5,22 @@ export const projects = {
   },
   items: [
     {
+      title: "Color Theory App",
+      year: 2026,
+      description: "An educational web app for artists of all levels to learn (or refresh) their knowledge of color theory. Accessibility features like a color contrast checker and color blindness simulation are also available.",
+      tags: ["Python", "Flet", "GitHub", "VSCode"],
+      github: "https://github.com/angelml1/-Color_Theory_App",
+      live: "",
+    },
+    {
+      title: "Personal Portfolio Website",
+      year: 2026,
+      description: "(This website) Public-facing website to showcase my personal brand and various aspects of my academic and professional pursuits.",
+      tags: ["React", "TypeScript", "Tailwind CSS"],
+      github: "https://github.com/callinJade/callinJade.github.io",
+      live: "https://callinjade.github.io/",
+    },
+    {
       title: "Pawspect",
       year: 2026,
       description: "An AI-powered cat & dog breed identification web app with generalized health and care recommendations.",
@@ -35,14 +51,6 @@ export const projects = {
       tags: ["JavaScript", "CSS", "EJS", "MongoDB", "Docker", "VSCode", "GitHub"],
       github: "https://github.com/callinJade/database_app",
       live: "",
-    },
-    {
-      title: "Personal Portfolio Website",
-      year: 2026,
-      description: "(This website) Public-facing website to showcase my personal brand and various aspects of my academic and professional pursuits.",
-      tags: ["React", "TypeScript", "Tailwind CSS"],
-      github: "https://github.com/callinJade/callinJade.github.io",
-      live: "https://callinjade.github.io/",
     },
     {
       title: "Muscle Meow",
